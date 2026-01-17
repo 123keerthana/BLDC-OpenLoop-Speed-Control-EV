@@ -1,0 +1,12 @@
+# MATLAB files
+*.asv
+*.slxc
+*.autosave
+*.m~
+slprj/
+SimulinkCache/
+SimulinkCode/
+
+# Logs
+*.log
+*.tmp
