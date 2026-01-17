@@ -1,0 +1,5 @@
+This folder will contain:
+- Back EMF waveforms
+- Torque plot
+- Speed response
+- Hall signals
